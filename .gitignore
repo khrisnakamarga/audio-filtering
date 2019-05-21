@@ -1,0 +1,13 @@
+# ignore images
+*.jpg
+*.png
+*.fig
+
+# ignore word document
+*.docx
+*.doc
+
+#ignore music
+*.wav
+
+
